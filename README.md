@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Ciao! Sono Simone, Junior Web Developer & Designer con una solida esperienza alle spalle in logistica e gestione operativa. Oggi mi occupo di sviluppo frontend, UI/UX e digital design, con una grande passione per la tecnologia e la creatività.
 
-<!--
-**simonesugliano/simonesugliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Cosa mi distingue:**  
+Un approccio pratico, tanta voglia di imparare e la capacità di risolvere problemi in modo semplice e concreto. Mi piace trasformare idee in soluzioni digitali, collaborare in team e affrontare nuove sfide con entusiasmo.
 
-Here are some ideas to get you started:
+💡 **Skills:**  
+- HTML5, CSS3, JavaScript, Bootstrap  
+- UI/UX Design (Figma, Canva, accessibilità)  
+- Versionamento con Git/GitHub  
+- Project management, organizzazione e comunicazione
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Obiettivo:**  
+Contribuire a progetti innovativi e stimolanti, migliorare ogni giorno e crescere in un ambiente che valorizzi le idee e la collaborazione.
+
+📬 **Contatti:**  
+[LinkedIn](https://www.linkedin.com/in/simone-sugliano) | [sito personale](https://sitocv.altervista.org) | [sito progetto giardino](https://supermegaprovesito.altervista.org) | [progetto landing page](https://paginaprova.altervista.org) | [Email](mailto:1988simonesugliano@libero.it)
+
+---
+
+*“L’innovazione nasce dalla curiosità, dall’impegno e dal desiderio di migliorarsi sempre.”*
