@@ -14,7 +14,7 @@ Contribuire a progetti innovativi e stimolanti, migliorare ogni giorno e crescer
 
 **Contatti / Progetti:**  
 **Contatti / Progetti:**  
-[LinkedIn](https://www.linkedin.com/in/simone-sugliano) | [Email](mailto:simone.sugliano@gmx.com) | [Sito personale](https://sitocv.altervista.org) | [Sito progetto giardino](https://supermegaprovesito.altervista.org) | [Progetto landing page](https://paginaprova.altervista.org) | [Sito ambulatorio](https://clinicadoc.altervista.org) | [Sito agriturismo La Bertorella](https://labertorella.altervista.org)
+[LinkedIn](https://www.linkedin.com/in/simone-sugliano) | [Email](mailto:simone.sugliano@gmx.com) | [Sito personale](https://sitocv.altervista.org) | [Sito progetto giardino](https://supermegaprovesito.altervista.org) | [Progetto landing page](https://paginaprova.altervista.org) | [Sito ambulatorio](https://democlinicaprivata.altervista.org) | [Sito agriturismo La Bertorella](https://agriturismolabertorella.altervista.org)
 
 ---
 
