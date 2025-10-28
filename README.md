@@ -13,8 +13,9 @@ Un approccio pratico, tanta voglia di imparare e la capacità di risolvere probl
 Contribuire a progetti innovativi e stimolanti, migliorare ogni giorno e crescere in un ambiente che valorizzi le idee e la collaborazione.
 
 **Contatti / Progetti:**  
-[LinkedIn](https://www.linkedin.com/in/simone-sugliano) | [Email](mailto:1988simonesugliano@libero.it)
- | [sito personale](https://sitocv.altervista.org) | [sito progetto giardino](https://supermegaprovesito.altervista.org) | [progetto landing page](https://paginaprova.altervista.org) 
+**Contatti / Progetti:**  
+[LinkedIn](https://www.linkedin.com/in/simone-sugliano) | [Email](mailto:simone.sugliano@gmx.com) | [Sito personale](https://sitocv.altervista.org) | [Sito progetto giardino](https://supermegaprovesito.altervista.org) | [Progetto landing page](https://paginaprova.altervista.org) | [Sito ambulatorio](https://clinicadoc.altervista.org) | [Sito agriturismo La Bertorella](https://labertorella.altervista.org)
+
 ---
 
 *“L’innovazione nasce dalla curiosità, dall’impegno e dal desiderio di migliorarsi sempre.”*
