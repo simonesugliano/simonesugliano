@@ -1,21 +1,33 @@
-Ciao! Sono Simone, Junior Web Developer & Designer con una solida esperienza alle spalle in logistica e gestione operativa. Oggi mi occupo di sviluppo frontend, UI/UX e digital design, con una grande passione per la tecnologia e la creatività.
----
-**Cosa mi distingue:**  
-Un approccio pratico, tanta voglia di imparare e la capacità di risolvere problemi in modo semplice e concreto. Mi piace trasformare idee in soluzioni digitali, collaborare in team e affrontare nuove sfide con entusiasmo.
+Ciao! Sono **Simone**, Junior Web Developer & Designer con un approccio molto pratico allo sviluppo.  
+Mi occupo di **frontend moderno**, **UI/UX** e **design funzionale**, costruendo interfacce pulite, veloci e ottimizzate.  
+Negli ultimi mesi ho lavorato su **progetti reali** che mi hanno permesso di consolidare un workflow completo: dal design al codice, fino a integrazioni API e deploy.
 
-**Skills:**  
-- HTML5, CSS3, JavaScript, Bootstrap  
-- UI/UX Design (Figma, Canva, accessibilità)  
-- Versionamento con Git/GitHub  
-- Project management, organizzazione e comunicazione
+---
+
+**Cosa mi distingue:**  
+Capacità di trasformare problemi concreti in soluzioni tecniche solide, attenzione ai dettagli e voglia di crescere progetto dopo progetto.  
+Amo lavorare in team e portare valore attraverso codice chiaro, organizzato e performante.
+
+**Skills (usate davvero):**  
+- HTML5, CSS3 (Flexbox/Grid), JavaScript ES6+  
+- **React**, **Next.js 14**, SPA e componenti modulari  
+- **Tailwind CSS**, Bootstrap, transizioni e animazioni con **Framer Motion**  
+- **Firebase** (DB, Auth, Firestore), integrazione **API REST**  
+- SEO tecnica: Metadata API, OpenGraph, **JSON-LD**, WebP/AVIF  
+- Performance e Core Web Vitals (LCP, CLS, caching, lazy load)  
+- Automazioni con **GitHub Actions**, gestione file .ics, workflow cloud (Google Apps Script)  
+- Git/GitHub, CI/CD su Vercel  
+- UI/UX design (Figma, Canva, principi di accessibilità)
 
 **Obiettivo:**  
-Contribuire a progetti innovativi e stimolanti, migliorare ogni giorno e crescere in un ambiente che valorizzi le idee e la collaborazione.
+Entrare in un **team di sviluppo** dove contribuire con codice moderno e best practice, crescere insieme a sviluppatori più esperti e lavorare su progetti performanti, reali e ben progettati.
 
 **Contatti / Progetti:**  
-**Contatti / Progetti:**  
-[LinkedIn](https://www.linkedin.com/in/simone-sugliano) | [Email](mailto:simone.sugliano@gmx.com) | [Sito personale](https://sitocv.altervista.org) | [Sito progetto giardino](https://supermegaprovesito.altervista.org) | [Progetto landing page](https://paginaprova.altervista.org) | [Sito ambulatorio](https://democlinicaprivata.altervista.org) | [Sito agriturismo La Bertorella](https://agriturismolabertorella.altervista.org)
+[LinkedIn](https://www.linkedin.com/in/simone-sugliano) |  
+[Email](mailto:simone.sugliano@gmx.com) |  
+[Portfolio](https://simone-portfolio-fawn.vercel.app) |  
+
 
 ---
 
-*“L’innovazione nasce dalla curiosità, dall’impegno e dal desiderio di migliorarsi sempre.”*
+*“L’innovazione nasce dal fare, non dalle intenzioni.”*
