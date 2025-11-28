@@ -23,9 +23,9 @@ Amo lavorare in team e portare valore attraverso codice chiaro, organizzato e pe
 Entrare in un **team di sviluppo** dove contribuire con codice moderno e best practice, crescere insieme a sviluppatori più esperti e lavorare su progetti performanti, reali e ben progettati.
 
 **Contatti / Progetti:**  
-[LinkedIn](https://www.linkedin.com/in/simone-sugliano) |  
-[Email](mailto:simone.sugliano@gmx.com) |  
-[Portfolio](https://simone-portfolio-fawn.vercel.app) |  
+[LinkedIn](https://www.linkedin.com/in/simone-sugliano)   
+[Email](mailto:simone.sugliano@gmx.com)   
+[Portfolio](https://simone-portfolio-fawn.vercel.app)   
 
 
 ---
