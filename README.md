@@ -1,10 +1,10 @@
-## Ciao! Sono **Simone**, Junior Web Developer & Designer con un approccio molto pratico allo sviluppo.  
+# Ciao! Sono **Simone**, Junior Web Developer & Designer con un approccio molto pratico allo sviluppo.  
 Mi occupo di **frontend moderno**, **UI/UX** e **design funzionale**, costruendo interfacce pulite, veloci e ottimizzate.  
 Negli ultimi mesi ho lavorato su **progetti reali** che mi hanno permesso di consolidare un workflow completo: dal design al codice, fino a integrazioni API e deploy.
 
 ---
 
-### Cosa mi distingue:  
+## Cosa mi distingue:  
 Capacità di trasformare problemi concreti in soluzioni tecniche solide, attenzione ai dettagli e voglia di crescere progetto dopo progetto.  
 Amo lavorare in team e portare valore attraverso codice chiaro, organizzato e performante.
 
@@ -30,4 +30,4 @@ Entrare in un **team di sviluppo** dove contribuire con codice moderno e best pr
 
 ---
 
-*“L’innovazione nasce dal fare, non dalle intenzioni.”*
+## *“L’innovazione nasce dal fare, non dalle intenzioni.”*
